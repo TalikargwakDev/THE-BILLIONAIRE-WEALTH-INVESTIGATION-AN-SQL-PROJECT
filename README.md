@@ -28,47 +28,109 @@ Link to Dataset: Top 200 Richest Person in the World Dataset 💰🌍💹
 ## BUSINESS QUESTIONS AND ANALYSIS
 
 1. Retrieve the 20 richest billionaires.
+
+
 ![](1ST%20QUERY%20IMAGE%20A.png)
+
 
 ![](1ST%20QUERY%20IMAGE%20B.png)
 
+
+
 2. Identify the five youngest billionaires.
+
+
 ![](2ND%20QUERY%20IMAGE.png)
 
+
 3. Calculate the average age and average net worth.
+
+
 ![](3RD%20QUERY%20IMAGE.png)
 
+
 4. Identify the five most represented countries.
+
+
 ![](4TH%20QUERY%20IMAGE.png)
 
+
 5. Calculate the combined net worth of billionaires from each country.
+
+
 ![](5TH%20QUERY%20IMAGE%20A.png)
 
+
 6. Identify the five industries with the highest number of billionaires.
+
+
 ![](6TH%20QUERY%20IMAGE.png)
 
+
 7. Find countries with at least five billionaires.
+
+
 ![](7TH%20QUERY%20IMAGE.png)
 
+
 8. Calculate the total wealth of billionaires younger than 50.
+
+
 ![](8TH%20QUERY%20IMAGE.png)
 
+
 9. Identify billionaires whose net worth exceeds the overall average net worth.
+
 
 ![](9TH%20QUERY%20IMAGE%20A.png)
 
 
 10.Identify the industry with the highest average net worth.
+
+
 ![](10TH%20QUERY%20IMAGE.png)
 
 
 11. Calculate the percentage of the total wealth among top 200 Billionaires held by the top 3 wealthiest countries.
+
+
 ![](11TH%20QUERY%20A.png)
 
 
 12. Calculate how total net worth and average net worth differ across age generations(under 40, 40-59, 60-79 and 80+)
 
+
 ![](12TH%20QUERY%20IMAGE.png)
+
+
+
+13. Find the richest Billionaire in each industry
+
+
+![](13TH%20QUERY%20IMAGE%20A.png)
+
+
+
+![](13TH%20QUERY%20IMAGE%20B.png)
+
+
+
+14. Find which Billionaires are under the age of 50 and ranked in the global top 50(Young Achievers)
+
+
+![](14TH%20QUERY%20IMAGE.png)
+
+
+
+15. Calculate the gap between the highest and lowest Billionaire in each industry.
+
+
+![](15TH%20QUERY%20IMAGE%20A.png)
+
+
+
+![](15TH%20QUERY%20IMAGE%20B.png)
+
 
 
 ## CONCLUSION
