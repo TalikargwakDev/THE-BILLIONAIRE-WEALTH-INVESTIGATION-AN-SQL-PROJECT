@@ -1,6 +1,6 @@
 # THE BILLIONAIRE WEALTH INVESTIGATION (AN ANALYSIS USING SQL)
 
-![](INTRODUCTORY IMAGE.jpg)
+![](INTRODUCTORY%20IMAGE.jpg)
 
 *NOTE: The SQL code for this project can be found above named The Billionaire Wealth Investigation.sql*
 ## INTRODUCTION
@@ -28,23 +28,54 @@ Link to Dataset: Top 200 Richest Person in the World Dataset 💰🌍💹
 ## BUSINESS QUESTIONS AND ANALYSIS
 
 1. Retrieve the 20 richest billionaires.
-2. ![](1ST QUERY IMAGE A.png)
-3. ![](1ST QUERY IMAGE B.png)
-4. Identify the five youngest billionaires.
-5. Calculate the average age and average net worth.
-6. Identify the five most represented countries.
-7. Calculate the combined net worth of billionaires from each country.
-8. Identify the five industries with the highest number of billionaires.
-9. Find countries with at least five billionaires.
-10. Calculate the total wealth of billionaires younger than 50.
-11. Identify billionaires whose net worth exceeds the overall average net worth.
-10.Identify the industry with the highest average net worth.
+![](1ST%20QUERY%20IMAGE%20A.png)
 
-Conclusion
+![](1ST%20QUERY%20IMAGE%20B.png)
+
+2. Identify the five youngest billionaires.
+![](2ND%20QUERY%20IMAGE.png)
+
+3. Calculate the average age and average net worth.
+![](3RD%20QUERY%20IMAGE.png)
+
+4. Identify the five most represented countries.
+![](4TH%20QUERY%20IMAGE.png)
+
+5. Calculate the combined net worth of billionaires from each country.
+![](5TH%20QUERY%20IMAGE%20A.png)
+
+6. Identify the five industries with the highest number of billionaires.
+![](6TH%20QUERY%20IMAGE.png)
+
+7. Find countries with at least five billionaires.
+![](7TH%20QUERY%20IMAGE.png)
+
+8. Calculate the total wealth of billionaires younger than 50.
+![](8TH%20QUERY%20IMAGE.png)
+
+9. Identify billionaires whose net worth exceeds the overall average net worth.
+
+![](9TH%20QUERY%20IMAGE%20A.png)
+
+
+10.Identify the industry with the highest average net worth.
+![](10TH%20QUERY%20IMAGE.png)
+
+
+11. Calculate the percentage of the total wealth among top 200 Billionaires held by the top 3 wealthiest countries.
+![](11TH%20QUERY%20A.png)
+
+
+12. Calculate how total net worth and average net worth differ across age generations(under 40, 40-59, 60-79 and 80+)
+
+![](12TH%20QUERY%20IMAGE.png)
+
+
+## CONCLUSION
 Wealth in this group is heavily concentrated.
-•	By country: The United States has 39.5% of the billionaires but holds 49.2% of the wealth. The top three countries (US, France, India) hold 63.5%.
-•	By individual: The top 10 people hold 24.4% of the total, and only 53 of the 200 are above the average net worth of $31.84 billion. A few mega-fortunes pull the average up.
-•	By industry: Technology, Finance & Investments and Fashion & Retail have the most billionaires. Telecom has the highest average net worth, but only because it has a single member, Carlos Slim. Among industries with five or more billionaires, Technology leads.
-•	By age: The typical billionaire is about 69. The 60-79 bracket holds the most total wealth, while the five billionaires under 40 have the highest average ($55.7 billion).
+- **By country**: The United States has 39.5% of the billionaires but holds 49.2% of the wealth. The top three countries (US, France, India) hold 63.5%.
+- **By individual**: The top 10 people hold 24.4% of the total, and only 53 of the 200 are above the average net worth of $31.84 billion. A few mega-fortunes pull the average up.
+-	**By industry**: Technology, Finance & Investments and Fashion & Retail have the most billionaires. Telecom has the highest average net worth, but only because it has a single member, Carlos Slim. Among industries with five or more billionaires, Technology leads.
+- **By age**: The typical billionaire is about 69. The 60-79 bracket holds the most total wealth, while the five billionaires under 40 have the highest average ($55.7 billion).
 A limit of this analysis is that the dataset is a single snapshot of the top 200, so it shows how wealth is spread at the very top, not across the whole population.
 
