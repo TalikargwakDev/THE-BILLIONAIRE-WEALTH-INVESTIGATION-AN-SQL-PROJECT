@@ -16,7 +16,7 @@ The dataset is the Top 200 Richest People in the World, taken from the Forbes li
 -	**networth_billion_US_dollars**: The total net worth of the billionaire, expressed in billions of US dollars.
 -	**industry**: The industry or sector to which the billionaire's wealth is mainly attributed.
 
-**[Link to Dataset:] (Top 200 Richest Person in the World Dataset 💰🌍💹)*
+**[Link to Dataset: Top 200 Richest Person in the World Dataset 💰🌍💹](https://www.kaggle.com/datasets/mayankanand2701/top-200-richest-worlds-billionaires-dataset?resource=download)*
 
 ## SQL COMMANDS AND FUNCTIONS USED
 -	**Querying and filtering**: SELECT, FROM, WHERE, AND, BETWEEN
