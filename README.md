@@ -16,7 +16,7 @@ The dataset is the Top 200 Richest People in the World, taken from the Forbes li
 -	**networth_billion_US_dollars**: The total net worth of the billionaire, expressed in billions of US dollars.
 -	**industry**: The industry or sector to which the billionaire's wealth is mainly attributed.
 
-Link to Dataset: Top 200 Richest Person in the World Dataset 💰🌍💹
+**[Link to Dataset:] (Top 200 Richest Person in the World Dataset 💰🌍💹)*
 
 ## SQL COMMANDS AND FUNCTIONS USED
 -	**Querying and filtering**: SELECT, FROM, WHERE, AND, BETWEEN
@@ -33,7 +33,7 @@ Link to Dataset: Top 200 Richest Person in the World Dataset 💰🌍💹
 ![](1ST%20QUERY%20IMAGE%20A.png)
 
 
-![](1ST%20QUERY%20IMAGE%20B.png)
+![](1ST%20QUERY%20%20IMAGE%20B.png)
 
 
 
@@ -140,4 +140,6 @@ Wealth in this group is heavily concentrated.
 -	**By industry**: Technology, Finance & Investments and Fashion & Retail have the most billionaires. Telecom has the highest average net worth, but only because it has a single member, Carlos Slim. Among industries with five or more billionaires, Technology leads.
 - **By age**: The typical billionaire is about 69. The 60-79 bracket holds the most total wealth, while the five billionaires under 40 have the highest average ($55.7 billion).
 A limit of this analysis is that the dataset is a single snapshot of the top 200, so it shows how wealth is spread at the very top, not across the whole population.
+
+**NOTE: The SQL code for this project can be found above named The Billionaire Wealth Investigation.sql*
 
